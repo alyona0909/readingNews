@@ -10,5 +10,5 @@ pip install beautifulsoup4
 ```
 
 ## How to use
-You should launch script from console. The result of it will be a text format file which grabbing all news from web site with rating more than 99.
+You should launch script from console. The result of it will be a text format file which grabbing all news from web site https://news.ycombinator.com/news with rating more than 99.
 
